@@ -1,2 +1,1 @@
-# Prepcurso-Henry
-este es un repositorio de prueba de prepcurso de henry
+este proyecto es una prueba de como crear un repositorio y clonarlo para trabajarlo en mi escritorio personal
